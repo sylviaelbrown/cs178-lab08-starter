@@ -1,7 +1,7 @@
 # CS178 - Lab 8 Starter
 #Lab 8 - SylviaBrown
 #Version 2
-#Date: 2/24/26
+#Date: 2/24/2026
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
